@@ -9,9 +9,9 @@
     --cor-de-fundo: #4b0c4b;
     --branco: #FFFFFF;
     --amarelo: #c0eb00;
-    --vermelho: linear-gradient(97.54deg, #520000 35.49%, #326589 165.37%);
+    --Bordô: linear-gradient(97.54deg, #520000 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
-    --vermelho: #520000;
+    --Bordô: #520000;
 }
 
 body {
